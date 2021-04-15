@@ -5,7 +5,7 @@ LABEL description="Minimum container for rclone"
 LABEL version="1.0"
 
 # Global environment settings
-ENV RCLONE_VERSION="v1.49.2" \
+ENV RCLONE_VERSION="v1.55.0" \
     PLATFORM_ARCH="amd64"
 
 RUN \
